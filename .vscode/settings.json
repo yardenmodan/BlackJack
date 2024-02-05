@@ -1,0 +1,20 @@
+{
+    "files.associations": {
+        "black_jack.h": "c",
+        "hit_or_stand.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c",
+        "main.h": "c",
+        "init.h": "c",
+        "game_over.h": "c",
+        "inttypes.h": "c",
+        "dealer_draw.h": "c",
+        "stdbool.h": "c",
+        "init_deal.h": "c",
+        "betting.h": "c",
+        "reset_cards.h": "c",
+        "bj_check.h": "c",
+        "string.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
+}
